@@ -2,7 +2,9 @@ This is my neovim config based on kickstart.nvim.
 
 Added stuff:
 
--Plugins:
+##Plugins:
     -Neotree -> File tree
--Shortcuts:
+##Shortcuts:
     -<leader>pv shortcut to open netrw
+##Config:
+    -relative line numbers
